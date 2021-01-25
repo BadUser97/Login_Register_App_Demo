@@ -11,8 +11,5 @@ IMAGENES:
 
 - Pixabay
 
-ICONOS:
-
-- FontAwesome
 
 DEMO: https://baduser97.github.io/Login_Register_App_Demo/
