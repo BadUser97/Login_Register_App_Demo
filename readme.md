@@ -14,4 +14,4 @@ IMAGENES:
 
 DEMO: https://baduser97.github.io/Login_Register_App_Demo/
 
-<img src="https://github.com/BadUser97/Login_Register_App_Demo/ssdemo.png" width="50%">
+<img src="https://github.com/BadUser97/Login_Register_App_Demo/blob/main/ssdemo.png" width="50%">
