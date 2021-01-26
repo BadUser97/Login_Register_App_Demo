@@ -1,4 +1,4 @@
-# LOGIN $ REGISTER APP DEMO
+# LOGIN & REGISTER APP DEMO
 
 # Tecnologias utilizadas
 
